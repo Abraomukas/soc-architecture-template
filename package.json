@@ -1,0 +1,24 @@
+{
+  "name": "soc-architecture-template",
+  "version": "1.0.0",
+  "description": "Stub for a Node.js app following a SOC architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abraomukas/soc-architecture-template.git"
+  },
+  "keywords": [
+    "soc",
+    "nodejs",
+    "api"
+  ],
+  "author": "abraomukas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abraomukas/soc-architecture-template/issues"
+  },
+  "homepage": "https://github.com/Abraomukas/soc-architecture-template#readme"
+}
